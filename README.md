@@ -22,16 +22,17 @@ My work spans the full pipeline — data wrangling, feature engineering, model t
 
 | Project | What It Does |
 |---|---|
-| [Customer-Churn-Prediction](https://github.com/KashinathBiradar123/Customer-Churn-Prediction) | Predicts which customers will leave — before they do |
-| [ClassificationPP](https://github.com/KashinathBiradar123/ClassificationPP) | End-to-end classification pipeline |
-| [ALGOml](https://github.com/KashinathBiradar123/ALGOml) | ML algorithms from scratch |
-| [FeatureScaling](https://github.com/KashinathBiradar123/FeatureScaling) | Preprocessing techniques compared |
-| [Data-Outliers](https://github.com/KashinathBiradar123/Data-Outliers) | Outlier detection and handling methods |
 | [GenSight-AI](https://github.com/KashinathBiradar123/GenSight-AI) | GenAI Observability & Cost Intelligence Platform |
 | [CareerGenie AI](https://github.com/KashinathBiradar123/job-recommendation-ai) | job-recommendation-ai |
 | [Marketing-Performance-Pipeline](https://github.com/KashinathBiradar123/Marketing-Performance-Pipeline) | End-to-end ETL + analytics system |
 | [Customer360-Analytics](https://github.com/KashinathBiradar123/Customer360-Analytics) | Customer 360 Model|
 | [Retail-Sales-ETL](https://github.com/KashinathBiradar123/Retail-Sales-ETL) | Retail Sales Data Warehouse & ETL Pipeline|
+| [Customer-Churn-Prediction](https://github.com/KashinathBiradar123/Customer-Churn-Prediction) | Predicts which customers will leave — before they do |
+| [ClassificationPP](https://github.com/KashinathBiradar123/ClassificationPP) | End-to-end classification pipeline |
+| [ALGOml](https://github.com/KashinathBiradar123/ALGOml) | ML algorithms from scratch |
+| [FeatureScaling](https://github.com/KashinathBiradar123/FeatureScaling) | Preprocessing techniques compared |
+| [Data-Outliers](https://github.com/KashinathBiradar123/Data-Outliers) | Outlier detection and handling methods |
+
 | [HandlingMV](https://github.com/KashinathBiradar123/HandlingMV) | Missing value strategies, hands-on |
 
 ---
